@@ -161,9 +161,20 @@ li{
     
 }
 
+.empresa-curso{
+    font-size: 22px;
+    font-weight: 400;
+}
+
+
 .cargo{
-    padding: 0.8% 0;
+    padding: 0.5% 0;
     color: var(--cor-tercearia);
+    font-size: 20px;
+}
+
+.descricao{
+    font-size: 18px;
 }
 
 .container{
@@ -181,7 +192,13 @@ li{
     padding: 1rem 0.5rem;
     font-family: var(--font-secundaria);
     font-weight: 600;
+    font-size: 18px;
     
+}
+
+.lista-espaco{
+    display: grid;
+    gap: 10px;
 }
 
 
