@@ -59,7 +59,7 @@ body{
 }
 
 .apresentacao_conteudo{
-    width: 50%;
+    width: 60%;
     display: flex;
     flex-direction: column;
     gap: 2.5rem;
@@ -69,14 +69,13 @@ body{
 .apresentacao_conteudo_titulo {
     font-family: var(--font-primaria);
     font-size: 2.25rem;
+    text-align: justify;
 }
 
 #destaque{
     color: var(--cor-tercearia);
 }
 .apresentacao_conteudo_texto{
-    /* color: #81689D; */
-    /*font-family: 'Protest Revolution', sans-serif;*/
     font-size: 1.5rem;
     font-family: var(--font-secundaria);
 }
@@ -96,7 +95,7 @@ body{
 }
 
 .apresentacao_imagem{
-    width: 50%;
+    width: 40%;
 }
 
 .links {
@@ -162,7 +161,7 @@ li{
 }
 
 .empresa-curso{
-    font-size: 22px;
+    font-size: 1.37rem;
     font-weight: 400;
 }
 
@@ -170,11 +169,11 @@ li{
 .cargo{
     padding: 0.5% 0;
     color: var(--cor-tercearia);
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 .descricao{
-    font-size: 18px;
+    font-size: 1.13rem;
 }
 
 .container{
@@ -192,7 +191,7 @@ li{
     padding: 1rem 0.5rem;
     font-family: var(--font-secundaria);
     font-weight: 600;
-    font-size: 18px;
+    font-size: 1.13rem;
     
 }
 
