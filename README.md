@@ -2,7 +2,8 @@
 
 Olá, bem-vindo(a) ao meu portfólio do projeto One Alura.
 
-![image](https://github.com/enimatos/portfolio/assets/69444237/eee2f467-0b73-4100-a34c-8ff1497549f1)
+![image](https://github.com/enimatos/portfolio/assets/69444237/4ccf95ae-ac9f-4cf6-94dd-35fa241e1489)
+
 
 
 ### Apesar da descrição da "HOME", ainda estou em processo de aprendizagem, por isso, esse trabalho se resume em um site estático onde foram aplicados apenas conhecimentos de :
