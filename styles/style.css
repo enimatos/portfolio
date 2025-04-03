@@ -97,6 +97,7 @@ body{
 
 .apresentacao_imagem{
     width: 40%;
+    border-radius:1rem;
 }
 
 .links {
